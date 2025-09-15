@@ -37,7 +37,7 @@ public static class Program
                     MethodPracticeStorage.Run();
                     break;
                 case "6":
-                  //  MovieBooking.Run();
+                    MovieBooking.Run();
                     break;
                 default:
                     Console.WriteLine("Number not recognized.");
