@@ -31,7 +31,7 @@ public static class Program
                     ProductPriceWithMethods.Run();
                     break;
                 case "4":
-                   // BMICalculator.Run();
+                    BMICalculator.Run();
                     break;
                 case "5":
                    // MethodPracticeStorage.Run();
