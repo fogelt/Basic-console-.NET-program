@@ -34,7 +34,7 @@ public static class Program
                     BMICalculator.Run();
                     break;
                 case "5":
-                   // MethodPracticeStorage.Run();
+                    MethodPracticeStorage.Run();
                     break;
                 case "6":
                   //  MovieBooking.Run();
