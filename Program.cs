@@ -28,7 +28,7 @@ public static class Program
                     SimpleCalculator.Run();
                     break;
                 case "3":
-                  //  ProductPriceWithMethods.Run();
+                    ProductPriceWithMethods.Run();
                     break;
                 case "4":
                    // BMICalculator.Run();
