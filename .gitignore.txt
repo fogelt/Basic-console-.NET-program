@@ -1,2 +1,2 @@
-/bin
-/obj
+dir_to_ignore/bin
+dir_to_ignore/obj
